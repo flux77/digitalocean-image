@@ -1,0 +1,7 @@
+image: nixos/latest
+tasks:
+  - build-image: |
+      cd digitalocean-image
+      nix-build digitalocean-image.nix
+artifacts:
+  - digitalocean-image/result/nixos.qcow2.bz2
