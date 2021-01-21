@@ -16,6 +16,10 @@ More complete instructions can be found [here](https://justinas.org/nixos-in-the
 
 Feedback and PRs welcome.
 
+## Related Projects
+
+* [NixOS Cloud Images](https://nixos.cloud/): NixOS install images for Amazon (aarch64, x86_64), openstack and kexec.
+
 ## License
 
 BSD (c) Robert Johnstone
