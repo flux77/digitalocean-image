@@ -19,6 +19,7 @@ Feedback and PRs welcome.
 ## Related Projects
 
 * [NixOS Cloud Images](https://nixos.cloud/): NixOS install images for Amazon (aarch64, x86_64), openstack and kexec.
+* [`nixos-generators`](https://github.com/nix-community/nixos-generators): The nixos-generators project allows to take the same NixOS configuration, and generate outputs for different target formats.
 
 ## License
 
