@@ -2,7 +2,7 @@
 
 This repository contains a nix expression for building a custom disk image with [NixOS](https://nixos.org/) for [use with DigitalOcean](https://www.digitalocean.com/docs/images/custom-images/).
 
-The nix expression is very simple, and wraps facilities provided by the NixOS project.  The main value of this repository is that the image is already built, and available as a [build artifact](https://patchouli.sr.ht/builds.sr.ht/artifacts/~rj/400030/86cd07a7bacf370a/nixos.qcow2.bz2).
+The nix expression is very simple, and wraps facilities provided by the NixOS project.  The main value of this repository is that the image is already built, and available as a [build artifact](https://patchouli.sr.ht/builds.sr.ht/artifacts/~rj/412954/904640bc62850934/nixos.qcow2.bz2).
 
 ## Install
 
